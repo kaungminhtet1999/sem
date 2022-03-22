@@ -4,7 +4,7 @@
 
 # Software Engineering Methods
 
-+ Master Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/kaungminhtet1999/sem/A_workflow_for_my_Hello_World_App/master?style=flat-square)
++ Master Build Status ![GitHub Workflow Status (master)](https://img.shields.io/github/workflow/status/kaungminhtet1999/sem/A_workflow_for_my_Hello_World_App/master?style=flat-square)
 
 + Develop Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/kaungminhtet1999/sem/A_workflow_for_my_Hello_World_App/develop?style=flat-square)
 
